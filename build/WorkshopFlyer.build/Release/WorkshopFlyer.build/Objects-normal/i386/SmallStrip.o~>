@@ -1,0 +1,3 @@
+/Users/kris/Documents/Xcode/openFrameworks-exp/apps/Lab101/WorkshopFlyer/src/SmallStrip.cpp: In member function 'void SmallStrip::update(float, float)':
+/Users/kris/Documents/Xcode/openFrameworks-exp/apps/Lab101/WorkshopFlyer/src/SmallStrip.cpp:28: error: no matching function for call to 'SmallStrip::update(float, float&)'
+/Users/kris/Documents/Xcode/openFrameworks-exp/apps/Lab101/WorkshopFlyer/src/BaseStrip.h:22: note: candidates are: virtual void BaseStrip::update(float, float, float)
